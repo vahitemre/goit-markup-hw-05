@@ -271,6 +271,11 @@ textarea {
   text-decoration: underline;
 }
 
+.checkbox-wrapper a:hover,
+.checkbox-wrapper a:focus {
+  color: #404bbf;
+}
+
 .submit-button {
   width: 169px;
   height: 56px;
